@@ -10,7 +10,7 @@ locale                   : "fr-fr"
 title                    : "Adrien Mialland"
 title_separator          : "-"
 name                     : &name "Adrien Mialland"
-description              : &description "Postdoc in Robotics and Protein Engineering"
+description              : &description "Postdoc Researcher"
 url                      : https://adrienmialland.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "adrienmialland/adrienmialland.github.io"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Adrien Mialland"
   avatar           : "profile.png"
-  bio              : "Postdoc at AIST, Tokyo"
+  bio              : "Postdoc Researcher"
   location         :
   employer         :
   pubmed           :
