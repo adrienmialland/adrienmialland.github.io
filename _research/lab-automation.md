@@ -1,7 +1,7 @@
 ---
 title: "Lab Automation"
 layout: single-portfolio
-excerpt: "<img src='/images/research/maholo_mini.jpg' alt=''>"
+excerpt: "<img src='/images/research/maholo_mini.png' alt=''>"
 category: Current Projects
 collection: research
 order_number: 2
@@ -15,7 +15,7 @@ Laboratory automation is a field that focuses on using technology to automate bi
 
 Laboratory automation has already demonstrated its effectiveness when the tasks to automate are fixed, relatively simple, or with little variability. However, when complex experiments need to be designed, automation is still possible but usually relies on robot programation that requires expert knowledge. One example is the robots in the following pictures, that is able to reproduce human movements using two independent arms, but that also involves precise movements configuration and in the right order. Complex experiments therefore increases programation time, during which the robots cannot be used for other experiments.
 
-![](/images/research/maholo.jpg)
+![](/images/research/maholo.png)
 
 In my postdoctoral research, I work with this type of human-like robot and seek to integrate artificial intelligence algorithm to ease the programation and the design of new biological experiments. By doing so, each arm trajectory is not the result of a long and tedious robot arms trajectory refinement, but is inferred from a predictive model that finds the best arms trajectory to apply, in a given situation. 
 
